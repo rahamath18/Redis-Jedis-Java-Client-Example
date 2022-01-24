@@ -13,9 +13,14 @@ What is Redis?
 	partitioning with Redis Cluster. Learn more https://redis.io/topics/introduction
 
 
-## For Redis Server Installation and Setup, refer following page
+## For Redis Server Installation and Setup, refer the following pages
 
+	
+	https://github.com/rahamath18/Redis-on-Windows10
+	
 	https://github.com/rahamath18/Redis-on-MacOS
+	
+	
 
 ## Redis Java Client Program
 
